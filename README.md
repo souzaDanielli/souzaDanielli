@@ -14,6 +14,6 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-%23F34B7D.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ### ⚙️ Estatísticas do GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaDanielli&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaDanielli&layout=compact&theme=tokyonight)
 
 ⭐️ Sinta-se à vontade para entrar em contato!
