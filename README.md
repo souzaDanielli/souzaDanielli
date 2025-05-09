@@ -11,6 +11,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%23F34B7D.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ### ⚙️ Estatísticas do GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaDanielli&layout=compact&theme=radical)
