@@ -3,7 +3,7 @@
 ### 💻 Sobre mim
 - 😄 Apaixonada por tecnologia e desenvolvimento de software.
 - 🌱 Atualmente aprendendo: Java e Node.js
-- 📫 Como me encontrar: https://www.linkedin.com/in/souzaDanielli | daniellisz.silva@gmail.com
+- 📫 Como me encontrar: https://www.linkedin.com/in/danielli-silva-25b95932b/ | daniellisz.silva@gmail.com
 
 ### 🛠️ Tecnologias e Ferramentas
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
